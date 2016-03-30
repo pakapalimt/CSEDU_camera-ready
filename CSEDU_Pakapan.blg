@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: CSEDU_Pakapan.aux
+The style file: apalike.bst
+Database file #1: example.bib
+Warning--empty journal in jones2006mobile
+Warning--empty journal in melhuish2010looking
+You've used 21 entries,
+            1935 wiz_defined-function locations,
+            592 strings with 7170 characters,
+and the built_in function-call counts, 7886 in all, are:
+= -- 778
+> -- 287
+< -- 20
++ -- 100
+- -- 92
+* -- 629
+:= -- 1367
+add.period$ -- 63
+call.type$ -- 21
+change.case$ -- 145
+chr.to.int$ -- 21
+cite$ -- 23
+duplicate$ -- 324
+empty$ -- 565
+format.name$ -- 130
+if$ -- 1554
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 26
+newline$ -- 106
+num.names$ -- 63
+pop$ -- 142
+preamble$ -- 1
+purify$ -- 150
+quote$ -- 0
+skip$ -- 254
+stack$ -- 0
+substring$ -- 521
+swap$ -- 46
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 116
+warning$ -- 2
+while$ -- 68
+width$ -- 0
+write$ -- 266
+(There were 2 warnings)
